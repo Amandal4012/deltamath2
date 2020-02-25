@@ -10,3 +10,8 @@
   background-color: #555;
   opacity: 0.2;
 }
+.signin {
+ height: 500px;
+ width: 500px;
+ background-color:#000;
+}
