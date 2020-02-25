@@ -3,3 +3,10 @@
   width: 10000px;
   background-color: #555;
 }
+
+.rectangle2 {
+  height: 50px;
+  width: 10000px;
+  background-color: #555;
+  opacity: 0.2;
+}
