@@ -17,6 +17,6 @@
  background-color:#555;
 }
 
-a {
-color: #006666;
+.link:hover {
+color: #006666; /* CSS link hover (spruce green) */
 }
