@@ -20,3 +20,9 @@
 .link:hover {
 color: #006666; /* CSS link hover (spruce green) */
 }
+
+.login {
+ height: 50px;
+ width: 10000px;
+ background-color: #000080;
+}
