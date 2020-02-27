@@ -47,7 +47,7 @@ Img border
 
 
 h2{
-position: fixed;
+position: static;
 left: 5px;
 top: 10px;
 }
