@@ -26,3 +26,9 @@ color: #006666; /* CSS link hover (spruce green) */
  width: 10000px;
  background-color: #000080;
 }
+
+.thin-black-border {
+    border-color: #000;
+    border-width: 5px;
+    border-style: solid;
+}
