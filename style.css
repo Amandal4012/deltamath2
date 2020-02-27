@@ -1,9 +1,11 @@
-.rectangle {
+Top border
+.rectangle { 
   height: 50px;
   width: 10000px;
   background-color: #555;
 }
 
+Bottom border
 .rectangle2 {
   height: 50px;
   width: 10000px;
@@ -11,19 +13,24 @@
   opacity: 0.2;
 }
 
+Background for signin box
 .signin {
  height: 500px;
  width: 500px;
  background-color:#555;
 }
 
+Hover over links
 .link:hover {
 color: #006666; /* CSS link hover (spruce green) */
 }
 
+Hover over login link
 .log:hover {
-color: #000080 ; /* CSS link hover (spruce green) */
+color: #000080 ; /* CSS link hover (navy blue) */
 }
+
+Login box
 #login {
  display: block;
  height: 68px;
@@ -31,8 +38,10 @@ color: #000080 ; /* CSS link hover (spruce green) */
  background-color: blue;
 }
 
+Img border
 .thin-black-border {
     border-color: #000;
     border-width: 5px;
     border-style: solid;
 }
+
