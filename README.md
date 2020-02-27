@@ -3,4 +3,4 @@
 <p> <a href="https://docs.google.com/document/d/1EnXdV97q9qXYqUsl24JDM6RwHIITDTS2x0J2gca3UMs/edit?usp=sharing"> My gDoc plan</p>
 
 <h2> Reflection </h2>
-<p> I initially picked DeltaMath to work on because I thought it would be fun to do the links and sign in box. The site also looks fairly simple, so making it would be interesting for me. I also am learning positioning, dead links with this project </p>
+<p> I initially picked DeltaMath to work on because I thought it would be fun to do the links and sign in box. The site also looks fairly simple, so making it would be interesting for me. I also am learning positioning, dead links with this project. I figured out how to make clickable html elements like a div, with text on it. I also learned about how to create links that change color when you hover over them. </p>
