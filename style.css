@@ -45,3 +45,9 @@ Img border
     border-style: solid;
 }
 
+
+h2{
+position: fixed;
+left: 5px;
+top: 10px;
+}
