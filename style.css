@@ -25,6 +25,7 @@ color: #006666; /* CSS link hover (spruce green) */
 color: #000080 ; /* CSS link hover (spruce green) */
 }
 #login {
+ display: block;
  height: 300px;
  width: 300px;
  background-color: blue;
