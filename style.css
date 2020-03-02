@@ -49,9 +49,7 @@ Login button
 }
 
 .logo{
-position: static;
-left: 5px;
-top: 10px;
+padding-bottom: 3rem;
 }
 
 .color {
@@ -64,7 +62,7 @@ background-color: #eeeeee ;
 .tab_list {
   list-style-type: none;
   float:right;
-  padding-bottom: 5rem;
+  padding-bottom: 3rem;
   padding-right: 1rem;
   top: 0px;
   right: 0px;
