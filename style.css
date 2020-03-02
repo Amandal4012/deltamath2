@@ -1,38 +1,14 @@
+nav {
+  font-family: sans-serif;
+  list-style-type: none;
+  background-color:#2c3e50;
+  padding: 2%;
+  padding-bottom: 3%;
+  margin-top: -0.45%;
+  margin-right: -0.40%;
+  border-radius: 2.1%;
+  margin-left: -0.40%;
 
-#border1 { 
-  background-color: #555;
-}
-
-#border2 {
-  background-color: #555;
-  opacity: 0.2;
-}
-
-.sign-in {
- height: 500px;
- width: 500px;
- background-color:#000000;
- border-color: #dedede;
-}
-
-
-#background {
-display: block;
-height: 50px;
-width: 500px;
-background-color: #dedede;
-
-}
-
-#login {
- display: block;
- height: 68px;
- width: 418px;
- background-color: blue;
-}
-
-.color {
-background-color: #fafafa ;    
 }
 
 .tabs {
@@ -40,9 +16,9 @@ background-color: #fafafa ;
   text-transform: capitalize;
   color:white;
 }
-
 .tabs:hover {
   color:#18bc9c;
+
 }
 
 .tab_list {
@@ -60,47 +36,22 @@ background-color: #fafafa ;
   content: "🎓";
 }
 
-img{
- border-color: #000;
- border-width: 2px;
- border-style: solid;  
- margin: 50px 100px 110px 440px;
+
+#footer_div {
+  text-align: center;
+}
+
+footer {
+  position: absolute;
+  bottom: 1%;
+  right:46%;
 }
 
 
-h3{
-margin: 0px 100px 100px 1000px;
+
+#pic {
+  position: relative;
+  margin-top: 3%;
+  border-style: solid;
+  margin-left: 20%;
 }
-
-.fonts{
-font-family: 'Lato', Helvetica;    
-}
-
-nav {
-  font-family: sans-serif;
-  list-style-type: none;
-  background-color:#2c3e50;
-  padding: 2%;
-  padding-bottom: 2%;
-  margin-top: -0.95%;
-  margin-right: -0.40%;
-  border-radius: 2.1%;
-  margin-left: -0.40%;
-
-}
-
-a{
- text-align: center;
-}
-
-
-.link{
-text-align: center;
-}
-
-footer{
-color:#b4bcc2;
-padding-bottom:200px;
-margin-top:100px;
-}
-
