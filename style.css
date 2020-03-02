@@ -48,14 +48,6 @@ Login button
  background-color: blue;
 }
 
-Img border
-.thin-black-border {
-    border-color: #000;
-    border-width: 5px;
-    border-style: solid;
-}
-
-
 .logo{
 position: static;
 left: 5px;
@@ -72,11 +64,17 @@ background-color: #eeeeee ;
 .tab_list {
   list-style-type: none;
   float:right;
+  padding-bottom: 5rem;
   padding-right: 1rem;
   top: 0px;
   right: 0px;
 }
 
+img{
+ border-color: #000;
+ border-width: 5px;
+ border-style: solid;    
+}
 .fonts{
 font-family: 'Lato', Helvetica;    
 }
