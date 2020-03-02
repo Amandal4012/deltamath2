@@ -17,11 +17,6 @@ Background for signin box
  border-color: #dedede;
 }
 
-Hover over links
-.link:hover {
-color: #006666; /* CSS link hover (spruce green) */
-}
-
 Hover over login link
 .log:hover {
 color: #000080 ; /* CSS link hover (navy blue) */
@@ -44,14 +39,6 @@ Login button
  background-color: blue;
 }
 
-.logo{
-float:left;
-padding-bottom: 3rem;
-padding-right: 1rem;
-top: 0px;
-right: 0px;
-}
-
 .color {
 background-color: #eeeeee ;    
 }
@@ -61,7 +48,7 @@ background-color: #eeeeee ;
   text-transform: capitalize;
   color:white;
 }
-
+Hover over links
 .tabs:hover {
   color:#18bc9c;
 }
@@ -101,10 +88,17 @@ nav {
   list-style-type: none;
   background-color:#2c3e50;
   padding: 2%;
-  padding-bottom: 3%;
+  padding-bottom: 1%;
   margin-top: -0.45%;
   margin-right: -0.40%;
   border-radius: 2.1%;
   margin-left: -0.40%;
 
+}
+
+a{
+ text-align: center;
+}
+h5{
+text-align: center;
 }
