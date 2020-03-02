@@ -1,15 +1,13 @@
-Top border
+
 #border1 { 
   background-color: #555;
 }
 
-Bottom border
 #border2 {
   background-color: #555;
   opacity: 0.2;
 }
 
-Background for signin box
 .sign-in {
  height: 500px;
  width: 500px;
@@ -18,7 +16,6 @@ Background for signin box
 }
 
 
-Login button background box
 #background {
 display: block;
 height: 50px;
@@ -27,7 +24,6 @@ background-color: #dedede;
 
 }
 
-Login button 
 #login {
  display: block;
  height: 68px;
@@ -44,7 +40,7 @@ background-color: #fafafa ;
   text-transform: capitalize;
   color:white;
 }
-Hover over links
+
 .tabs:hover {
   color:#18bc9c;
 }
