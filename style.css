@@ -30,6 +30,14 @@ Hover over login link
 color: #000080 ; /* CSS link hover (navy blue) */
 }
 
+Login Background box
+#background {
+display: block;
+height: 50px;
+width: 500px;
+background-color: grey;
+}
+
 Login box
 #login {
  display: block;
