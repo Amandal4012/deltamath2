@@ -1,14 +1,10 @@
 Top border
-#rectangle { 
-  height: 50px;
-  width: 10000px;
+#border1 { 
   background-color: #555;
 }
 
 Bottom border
-#rectangle2 {
-  height: 50px;
-  width: 10000px;
+#border2 {
   background-color: #555;
   opacity: 0.2;
 }
@@ -77,6 +73,9 @@ img{
  border-width: 2px;
  border-style: solid;  
  margin: 50px 100px 110px 440px;
+}
+h3{
+margin: 0px 100px 20000px 1000px;
 }
 .fonts{
 font-family: 'Lato', Helvetica;    
