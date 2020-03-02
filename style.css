@@ -17,7 +17,8 @@ Background for signin box
 .sign-in {
  height: 500px;
  width: 500px;
- background-color:#000000 !important;
+ background-color:#000000;
+ border-color: #dedede;
 }
 
 Hover over links
@@ -30,15 +31,16 @@ Hover over login link
 color: #000080 ; /* CSS link hover (navy blue) */
 }
 
-Login Background box
+Login button background box
 #background {
 display: block;
 height: 50px;
 width: 500px;
-background-color: grey;
+background-color: #dedede;
+
 }
 
-Login box
+Login button 
 #login {
  display: block;
  height: 68px;
