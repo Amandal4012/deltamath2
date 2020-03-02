@@ -1,12 +1,12 @@
 Top border
-.rectangle { 
+#rectangle { 
   height: 50px;
   width: 10000px;
   background-color: #555;
 }
 
 Bottom border
-.rectangle2 {
+#rectangle2 {
   height: 50px;
   width: 10000px;
   background-color: #555;
