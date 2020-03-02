@@ -49,7 +49,11 @@ Login button
 }
 
 .logo{
+float:left;
 padding-bottom: 3rem;
+padding-right: 1rem;
+top: 0px;
+right: 0px;
 }
 
 .color {
@@ -71,7 +75,8 @@ background-color: #eeeeee ;
 img{
  border-color: #000;
  border-width: 2px;
- border-style: solid;    
+ border-style: solid;  
+ margin: 50px 100px 110px 440px;
 }
 .fonts{
 font-family: 'Lato', Helvetica;    
