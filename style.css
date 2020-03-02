@@ -60,7 +60,12 @@ background-color: #eeeeee ;
   text-decoration: none;
   text-transform: capitalize;
   color:white;
-  
+}
+
+.tabs:hover {
+  color:#18bc9c;
+}
+
 .tab_list {
   list-style-type: none;
   float:right;
@@ -82,9 +87,11 @@ img{
  border-style: solid;  
  margin: 50px 100px 110px 440px;
 }
+
 h3{
 margin: 0px 100px 100px 1000px;
 }
+
 .fonts{
 font-family: 'Lato', Helvetica;    
 }
