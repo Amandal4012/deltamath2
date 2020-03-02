@@ -1,5 +1,5 @@
 # newdeltamath.io
-<p> <a href=" https://amandal4012.github.io/newdeltamath.io"> Link to the site (Github Pages) </p>
+<p> <a href="https://amandal4012.github.io/newdeltamath.io"> Link to the site (Github Pages) </p>
 <p> <a href="https://docs.google.com/document/d/1EnXdV97q9qXYqUsl24JDM6RwHIITDTS2x0J2gca3UMs/edit?usp=sharing"> My gDoc plan</p>
 
 <h2> Reflection </h2>
