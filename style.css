@@ -65,3 +65,12 @@ top: 10px;
 .color {
 background-color: #eeeeee ;    
 }
+
+.tabs {
+  text-decoration: none;
+}
+.tab_list {
+  list-style-type: none;
+  float:right;
+  padding-right: 2rem;
+}
