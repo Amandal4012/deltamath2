@@ -58,14 +58,22 @@ background-color: #eeeeee ;
 
 .tabs {
   text-decoration: none;
-}
+  text-transform: capitalize;
+  color:white;
+  
 .tab_list {
   list-style-type: none;
   float:right;
-  padding-bottom: 3rem;
-  padding-right: 1rem;
-  top: 0px;
-  right: 0px;
+  padding-right: 2rem;
+}
+
+#right {
+  position: absolute;
+  left:0;
+}
+
+#right:before {
+  content: "🎓";
 }
 
 img{
@@ -79,4 +87,17 @@ margin: 0px 100px 100px 1000px;
 }
 .fonts{
 font-family: 'Lato', Helvetica;    
+}
+
+nav {
+  font-family: sans-serif;
+  list-style-type: none;
+  background-color:#2c3e50;
+  padding: 2%;
+  padding-bottom: 3%;
+  margin-top: -0.45%;
+  margin-right: -0.40%;
+  border-radius: 2.1%;
+  margin-left: -0.40%;
+
 }
